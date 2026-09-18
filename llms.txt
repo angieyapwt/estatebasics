@@ -1,0 +1,23 @@
+# Estate Basics
+
+> Estate Basics provides clarity-led residential property guidance in Singapore for people buying their first HDB, buying their first condo, upgrading, or renting for the first time. Amethyst Teo and Angie Yap help clients understand their intentions, options, numbers, risks, and trade-offs so clients can make their own decisions.
+
+The website is a single-page guide. Some detailed paths, client cases, the disclaimer, and the privacy policy open as interactive panels on that page rather than at separate URLs. Property information and tool outputs are general guidance, not a substitute for checking current eligibility, financing, terms, and transaction details before committing.
+
+## Guidance
+
+- [Estate Basics home](https://estatebasics.sg/): Overview of the approach, property paths, tools, team, client cases, testimonials, and frequently asked questions.
+- [Find your starting point](https://estatebasics.sg/#start): First HDB, first condo, and first rental paths, each with questions to examine before making a move.
+- [How we guide](https://estatebasics.sg/#purpose): The Estate Basics approach to discovering what matters, understanding possibilities, choosing, and moving forward.
+- [About Amethyst and Angie](https://estatebasics.sg/#about): Their personal backgrounds and approach to client guidance.
+- [Frequently asked questions](https://estatebasics.sg/#faq): Questions about first homes, HDB-to-condo upgrades, condo selection, rentals, and buying as an LGBTQ+ couple in Singapore.
+
+## Free tools and guides
+
+- [Resale Condo Buyability Report](https://buyabilityreport.estatebasics.sg/): A structured review of a shortlisted resale condominium's market fundamentals, location strength, and key risks. It helps inform whether a viewing or offer deserves further consideration.
+- [Property Path Calculator](https://propertypathcalculator.estatebasics.sg/): An initial affordability calculation to help buyers understand their starting point. It does not replace personalised advice or a full accounting of every purchase cost.
+- [Free Rental Guidebook](https://estatebasics.sg/first-rental-guidebook-estate-basics.pdf): A guide to the Singapore rental journey, from viewing and documentation through handover, tenancy milestones, and returning the property.
+
+## Contact
+
+- [Estate Basics website](https://estatebasics.sg/): Use the WhatsApp links on the site to start a conversation with Amethyst or Angie.

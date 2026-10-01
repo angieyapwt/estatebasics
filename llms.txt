@@ -48,7 +48,7 @@ Estate Basics helps renters look beyond monthly rent. Guidance can include short
 
 - [Property Path Calculator](https://propertypathcalculator.estatebasics.sg/): An initial affordability calculator that helps buyers estimate purchase funds and understand their starting point. It is not a complete financial plan and does not include every possible cost.
 - [Resale Condo Buyability Report](https://buyabilityreport.estatebasics.sg/): A free structured report applying the Estate Basics framework to a shortlisted resale condominium. It reviews market fundamentals, location strength, key risks, and whether the development deserves further consideration, a viewing, or an offer.
-- [Free Rental Guidebook](https://estatebasics.sg/first-rental-guidebook-estate-basics.pdf): An A-to-Z Singapore rental guide covering viewing, documentation, handover, tenancy milestones, returning the property, and protecting the security deposit.
+- [Free Rental Guidebook](https://rental360.estatebasics.sg/): An A-to-Z Singapore rental guide covering viewing, documentation, handover, tenancy milestones, returning the property, and protecting the security deposit.
 
 ## Frequently asked questions
 
@@ -82,7 +82,7 @@ It reviews a shortlisted condominium's market fundamentals, location strength, a
 
 ### Can Estate Basics help with my first rental?
 
-Yes. Estate Basics supports rentals from understanding needs and shortlisting through negotiation, documentation, handover, and the eventual return of the property. The [Free Rental Guidebook](https://estatebasics.sg/first-rental-guidebook-estate-basics.pdf) explains the process.
+Yes. Estate Basics supports rentals from understanding needs and shortlisting through negotiation, documentation, handover, and the eventual return of the property. The [Free Rental Guidebook](https://rental360.estatebasics.sg/) explains the process.
 
 ### Does Estate Basics represent landlords and tenants?
 

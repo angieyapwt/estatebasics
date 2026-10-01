@@ -80,5 +80,20 @@
   </head>
   <body>
     <div id="root"></div>
+    <script>
+      (() => {
+        const rentalGuideUrl = 'https://rental360.estatebasics.sg/';
+        const updateRentalGuideLinks = () => {
+          document.querySelectorAll('a[href*="first-rental-guidebook-estate-basics.pdf"]').forEach((link) => {
+            link.href = rentalGuideUrl;
+          });
+        };
+        updateRentalGuideLinks();
+        new MutationObserver(updateRentalGuideLinks).observe(document.getElementById('root'), {
+          childList: true,
+          subtree: true,
+        });
+      })();
+    </script>
   </body>
 </html>
